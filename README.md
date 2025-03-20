@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-#### Sou estudante de Engenharia de Software na UniCesumar, atualmente focado em me aprimorar meus conhecimentos como Desenvolvedor Back-end.
+#### Sou estudante de Engenharia de Software na UniCesumar, atualmente focado em aprimorar meus conhecimentos como Desenvolvedor Back-end.
 
 ### 🤖 Linguagens e Tecnologias
 
