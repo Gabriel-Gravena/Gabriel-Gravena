@@ -37,6 +37,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-### Linguagens mais usadas
+### 🚀 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gravena&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Gravena&show_icons=true&count_private=true&hide=prs&title_color=ff6347&icon_color=ff6347&text_color=ffffff&bg_color=2e2e2e" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gravena&layout=compact&langs_count=10&title_color=ff6347&text_color=ffffff&bg_color=2e2e2e" alt="Top Languages"/>
+</div>
