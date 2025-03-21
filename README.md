@@ -1,8 +1,6 @@
-## Olá👋
+## Hi! I'm Gabriel Gravena👋
 
-**`Backend Developer`**
-
-#### Sou estudante de Engenharia de Software na UniCesumar, atualmente focado em aprimorar meus conhecimentos como Desenvolvedor Back-end.
+### Olá! Sou estudante de Engenharia de Software na UniCesumar, atualmente focado em aprimorar meus conhecimentos como Desenvolvedor Back-end.
 
 ### 🤖 Linguagens e Tecnologias
 
