@@ -9,15 +9,15 @@
     alt="JAVA"
     title="JAVA"
     width="40px"
-    style="padding-right:10px;"
+    style="padding-right:12px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     text-align: left
-    alt="JAVA"
-    title="JAVA"
+    alt="Spring"
+    title="Spring"
     width="40px"
-    style="padding-right:10px;"
+    style="padding-right:12px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
@@ -25,7 +25,7 @@
     alt="C"
     title="C"
     width="40px"
-    style="padding-right:10px;"
+    style="padding-right:12px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
@@ -33,15 +33,15 @@
     alt="JavaScript" 
     title="JavaScript" 
     width="40px" 
-    style="padding-right:10px;" 
+    style="padding-right:12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     text-align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
+    alt="Vue" 
+    title="Vue" 
     width="40px" 
-    style="padding-right:10px;" 
+    style="padding-right:12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
 
