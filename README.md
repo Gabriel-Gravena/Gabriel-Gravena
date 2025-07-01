@@ -1,7 +1,8 @@
 ## 👋 Hi! I'm Gabriel Gravena
 
-🎓 Estudante de Engenharia de Software na UniCesumar, atualmente focado no desenvolvimento **Back-end**.  
-📌 Entusiasta de **Java**, **Spring Boot**, APIs RESTful, e sempre explorando novas tecnologias.
+🎓 Estudante de Engenharia de Software na UniCesumar  
+💻 Desenvolvedor Full Stack em formação, com foco atual em **Back-end**  
+📌 Entusiasta de Java, Spring Boot, APIs RESTful, e sempre explorando novas tecnologias.
 
 ---
 
@@ -37,6 +38,14 @@
 
 ---
 
-## 📊 Linguagens mais usadas
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gravena&layout=compact&langs_count=10&title_color=ff6347&text_color=ffffff&bg_color=2e2e2e" alt="Top Languages"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gravena&layout=compact&langs_count=10&title_color=ff6347&text_color=ffffff&bg_color=2e2e2e" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Gravena&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github" alt="GitHub Stats" height="150"/>
+</div>
+
+---
+
+- 💻 [GitHub](https://github.com/Gabriel-Gravena)  
+- 📬 [LinkedIn](https://www.linkedin.com/in/gabriel-gravena/)  
