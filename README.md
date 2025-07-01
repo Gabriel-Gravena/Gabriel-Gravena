@@ -11,8 +11,8 @@
 ### 💻 Linguagens de Programação
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40px"/>
 </div>
 
 ### ⚙️ Frameworks e Bibliotecas
@@ -44,8 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gravena&layout=compact&langs_count=10&title_color=ff6347&text_color=ffffff&bg_color=2e2e2e" alt="Top Languages" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Gravena&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github" alt="GitHub Stats" height="150"/>
 </div>
-
----
-
-- 💻 [GitHub](https://github.com/Gabriel-Gravena)  
-- 📬 [LinkedIn](https://www.linkedin.com/in/gabriel-gravena/)  
