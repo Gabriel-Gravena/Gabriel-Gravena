@@ -1,8 +1,7 @@
 ## 👋 Hi! I'm Gabriel Gravena
 
 🎓 Estudante de Engenharia de Software na UniCesumar  
-💻 Desenvolvedor Full Stack em formação, com foco atual em **Back-end**  
-📌 Entusiasta de Java, Spring Boot, APIs RESTful, e sempre explorando novas tecnologias.
+💻 Desenvolvedor Full Stack em formação, com foco atual em aprimorar meus conhecimentos em **Back-end** 
 
 ---
 
