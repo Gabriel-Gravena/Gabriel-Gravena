@@ -4,14 +4,14 @@
 💡 Atualmente, sou Estagiário de Dados e Desenvolvimento no ICETI, onde foco em projetar e implementar soluções de automação para otimizar a coleta e análise de dados.
 
 ## 🧠 Tecnologias e Ferramentas
-### 💻 Linguagens de Programação
+### 💻 Linguagens
 <div style="display: flex; gap: 10px;"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px"/> 
 </div>
 
-### ⚙️ Frameworks e Bibliotecas
+### ⚙️ Frameworks
 <div style="display: flex; gap: 10px;"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40px"/> 
