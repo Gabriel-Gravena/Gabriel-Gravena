@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Gabriel Gravena
 🎓 Estudante do 4º semestre de Engenharia de Software na UniCesumar.
 
-💡 Atualmente, sou Estagiário de Dados e Desenvolvimento no ICETI, onde foco em projetar e implementar soluções de automação para otimizar a coleta e análise de dados.
+💡 Atualmente, sou Estagiário de Dados e Desenvolvimento no setor de pesquisa (ICETI) da UniCesumar, onde foco em projetar e implementar soluções de automação para otimizar a coleta e análise de dados.
 
 ## 🧠 Tecnologias e Ferramentas
 ### 💻 Linguagens
