@@ -31,9 +31,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40px"/> 
 </div>
-
-## 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gravena&layout=compact&langs_count=10&title_color=ff6347&text_color=ffffff&bg_color=2e2e2e" alt="Top Languages" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Gravena&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github" alt="GitHub Stats" height="150"/>
-</div>
