@@ -1,7 +1,7 @@
-## 👋 Olá! Eu sou o Gabriel Gravena
-🎓 Estudante do 4º semestre de Engenharia de Software na UniCesumar.
+## 👋 Olá! Eu sou Gabriel Gravena
+🎓 Estudante do 5º semestre de Engenharia de Software na UniCesumar.
 
-💡 Atualmente, sou Estagiário de Dados e Desenvolvimento no setor de pesquisa (ICETI) da UniCesumar.
+💡 Atualmente, atuo como Analista de Dados no Grupo Rivesa.
 
 ## 🧠 Tecnologias e Ferramentas
 ### 💻 Linguagens
