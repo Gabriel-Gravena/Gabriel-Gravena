@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Gabriel Gravena
 
-Atualmente sou **Analista de Dados** no Grupo Rivesa | Acadêmico de Engenharia de Software na UniCesumar - 5 Semestre.
+Atualmente sou **Desenvolvedor Jr** no Grupo Rivesa e acadêmico de Engenharia de Software na UniCesumar - 5 Semestre.
 
 ---
 
